@@ -1,0 +1,15 @@
+p {
+	color: blue;
+}
+
+#myId {
+	color: crimson;
+}
+
+.myClass {
+	color: chartreuse;
+}
+
+.logo {
+	width: 50px;
+}
